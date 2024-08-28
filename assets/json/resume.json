@@ -1,48 +1,48 @@
 {
   "basics": {
-    "name": "Vincenzo Norman Vitale",
-    "label": "Assistant Professor",
+    "name": "Loredana Schettino",
+    "label": "Researcher with a fixed-term contract (RTDa)",
     "image": "",
-    "email": "vincenzonorman.vitale@unina.it",
+    "email": "lschettino@unibz.it",
     "phone": "",
     "url": "",
     "summary": "",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "",
       "postalCode": "",
-      "city": "Naples",
+      "city": "Castellammare di Stabia",
       "countryCode": "IT",
       "region": "Italy"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Departement of Information Technology and Information Engineering (DIETI), University of Naples Federico II",
-      "position": "Assistant Professor",
-      "url": "https://www.docenti.unina.it/vincenzonorman.vitale",
-      "startDate": "17/10/2023",
-      "endDate": "Now",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Machine Learning, Natural Language Processing, Network Optimization"]
+      "name": "Faculty of Education, Free University of Bozen",
+      "position": "Researcher with a fixed-term contract in Computational Linguistics and Assistant Professor",
+      "url": "https://www.unibz.it/it/faculties/education/academic-staff/person/49952-loredana-schettino",
+      "startDate": "01/03/2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Phonetic Variation, Disfluency Phenomena, Speech Communication, Speech Processing"]
     }
   ],
   "education": [
     {
-      "institution": "University of Naples Federico II, Naples, Italy",
-      "location": "Naples, Italy",
-      "url": "https://former-cycles.dieti.unina.it/index.php/it/cicli/xxxiv-ciclo",
-      "area": "Information Technology and Electrical Engineering",
+      "institution": "University of Salerno, Salerno, Italy",
+      "location": "Salerno, Italy",
+      "url": "https://www.dipsum.unisa.it/",
+      "area": "Department of Humanities. Linguistic Studies",
       "studyType": "PhD",
       "startDate": "1/11/ 2018",
-      "endDate": "24/05/2022",
-      "courses": ["Theory of Relativity"]
+      "endDate": "04/07/2022",
+      "courses": ["The Role of Disfluencies in Italian Discourse. Modelling and Speech Synthesis Applications"]
     }
   ],
   "awards": [
@@ -138,12 +138,17 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
       "fluency": "Fluent",
       "icon": ""
     }
