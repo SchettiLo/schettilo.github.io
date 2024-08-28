@@ -2,17 +2,17 @@
   type: map
   contents:
   - name: Full Name
-    value: Vincenzo Norman Vitale
+    value: Loredana Schettino
   - name: Date of Birth
-    value: 30th August 1989
+    value: 6th July 1993
   - name: Languages
     value: Italian, English
 
 - title: Education
   type: time_table
   contents:
-  - title: PhD - program in "Information Technology and Electrical Engineering" (ITEE)
-    institution: University of Naples Federico II, Italy
+  - title: PhD - program in "Linguistic Studies" 
+    institution: University of Salerno, Italy
     year: 2022
     description:
     - Description 1.
@@ -21,8 +21,8 @@
       contents:
       - Sub-description 1.
       - Sub-description 2.
-  - title: Master Degree in Computer Science specialization in "Robotics and Advanced Cognitive Systems"
-    institution: University of Naples Federico II
+  - title: Master Degree in Modern Languages and Literatures, English and German, in "Applied Linguistics"
+    institution: University of Salerno
     year: 2018
     description:
     - Description 1.
