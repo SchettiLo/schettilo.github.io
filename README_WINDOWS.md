@@ -8,7 +8,7 @@ create a python virtual interpreter with jupyter installed:
 
     python -m venv al_folio_venv
 
-Activate
+Activate:
 
     al_folio_venv/scripts/Activate.ps1
 
