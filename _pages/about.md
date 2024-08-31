@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unina.it/home'> University of Naples Federico II</a>.  Corso Umberto I 40 - 80138 Naples, Italy.
+subtitle:  <a href='https://www.unibz.it/home'> Free University of Bozen</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Working at <a href='https://www.dieti.unina.it/index.php/en/'>DIETI</a> &  <a href='https://www.urbaneco.unina.it/'>UrbanECO</a></p>
-    <p>123 your address street</p>
-    <p>Born in Naples, Italy</p>
+    <p><p>Working at the <a href='https://alps.projects.unibz.it/'> Alpine Laboratory of Phonetic Sciences (ALPS)</a> and collaborates with  <a href='https://www.urbaneco.unina.it/'>UrbanECO</a></p> 
+    <p>Born in Castellammare di Stabia, Italy</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
