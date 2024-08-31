@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://normanf2.github.io//sitemap.xml
+Sitemap: https://schettilo.github.io//sitemap.xml
