@@ -17,9 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is my bibliography.
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Fellow (RTDa) at The Free University of Bozen-Bolzano. 
+I’m interested in exploring and modelling speech features and variability and developing ASR systems based on less but more informative data which could apply to Low-Resource Languages.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I earned my PhD from the University of Salerno discussing a thesis entitled “The Role of Disfluencies in Italian Discourse. Modelling and Speech Synthesis Applications”.
+Then, I worked as a post-doc researcher at the University of Naples Federico II on the project “Language models for speech synthesis aimed at presenting cultural content” within the context of the VISIT3D project (Virtual Interactive System for the Implementation of Tours in 3D). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include the communicative value of linguistic phenomena that characterize natural speech such as disfluencies and variation in the degree of phonic specification with a focus on related implementations in speech technologies. 
+

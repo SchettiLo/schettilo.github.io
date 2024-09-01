@@ -2,11 +2,11 @@
   type: map
   contents:
   - name: Full Name
-    value: Vincenzo Norman Vitale
+    value: Loredana Schettino
   - name: Date of Birth
-    value: 30th August 1989
+    value: 6th July 1993
   - name: Languages
-    value: Italian, English
+    value: Italian, English, German
 
 - title: Education
   type: time_table
