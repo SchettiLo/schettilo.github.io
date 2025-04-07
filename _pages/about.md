@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow (RTDa) at The Free University of Bozen-Bolzano. 
+I am a Research Fellow (RTDa) at The Free University of Bozen-Bolzano.. 
 I’m interested in exploring and modelling speech features and variability and developing ASR systems based on less but more informative data which could apply to Low-Resource Languages.
 
 I earned my PhD from the University of Salerno discussing a thesis entitled “The Role of Disfluencies in Italian Discourse. Modelling and Speech Synthesis Applications”.
